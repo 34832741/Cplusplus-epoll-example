@@ -1,7 +1,7 @@
 # Cplusplus-epoll-example
 C++ epoll example
 
-test on "CentOS Linux release 7.8.2003"
+test ok on "CentOS Linux release 7.8.2003".
 
 1.enter the project folder.
 
